@@ -2,8 +2,8 @@
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="Images/Weather_2.jpg" width="48%" alt="Dhaka View" />
-  <img src="Images/Weather_1.jpg" width="48%" alt="Chittagong View" />
+  <img src="Weather_2.jpg" width="48%" alt="Dhaka View" />
+  <img src="Weather_1.jpg" width="48%" alt="Chittagong View" />
 </p>
 
 ## 📌 Project Overview
